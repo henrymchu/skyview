@@ -3,6 +3,8 @@
 ## Overview
 This project is a simple frontend personal finance application built with React.js. It serves as a demonstration of my skills in developing user interfaces with React, including component structuring, state management, and basic routing. While the application is non-functioning in terms of backend integration or complete feature implementation, it showcases the potential structure and design of a fully functional application.
 
+![Alt text](public/screenshot.png)
+
 
 ### Features
 
