@@ -35,11 +35,11 @@ project-root/
 ## Technologies Used
 - React.js
 
-- React Router (if routing is implemented)
+- React Router
 
-- CSS Modules/styled-components (depending on the styling approach)
+- CSS Modules/styled-components
 
-- Other libraries or tools used (e.g., Axios for HTTP requests, if applicable)
+- Axios and Highcharts
 
 ## Contributing
 While this project is primarily a portfolio piece and not intended for further development, feedback and suggestions are welcome. Feel free to fork the repository and submit pull requests.
