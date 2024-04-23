@@ -47,11 +47,3 @@ While this project is primarily a portfolio piece and not intended for further d
 
 ## License
 This project is open-sourced under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-- **Name**: Henry Chu
-
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/yourprofile)
-
-- **GitHub**: [henrymchu](https://github.com/henrymchu)
