@@ -15,20 +15,22 @@ This project is a simple frontend application built with React.js. It serves as 
 - **Styling**: Shows styling approaches using CSS Modules or styled-components (whichever is used).
 
 ## Project Structure
+```
 project-root/
 │
-├── public/                    # Static files
-│   └── index.html             # Main HTML file
+├── public/ # Static files
+│ └── index.html
 │
-├── src/                       # Project source files
-│   ├── components/            # React components
-│   ├── styles/                # CSS or styled-components
-│   ├── App.js                 # Main React application component
-│   └── index.js               # Entry point for React application
+├── src/ # Project source files
+│ ├── components/
+│ ├── styles/
+│ ├── App.js
+│ └── index.js
 │
-├── package.json               # Project metadata and dependencies
-├── README.md                  # Project README file
-└── package-lock.json          # Dependency lock file (yarn or npm)
+├── package.json
+├── README.md
+└── package-lock.json
+```
 
 ## Technologies Used
 - React.js
@@ -50,6 +52,6 @@ This project is open-sourced under the MIT License. See the [LICENSE](LICENSE) f
 
 - **Name**: Henry Chu
 
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/yourprofile)
 
-- **GitHub**: [Your GitHub](https://github.com/henrymchu)
+- **GitHub**: [henrymchu](https://github.com/henrymchu)
